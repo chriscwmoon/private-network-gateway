@@ -7,7 +7,7 @@
 # MAGIC transitively connected to it — on‑prem over Direct Connect/VPN) through a single managed gateway
 # MAGIC placed into a subnet you own, reached via a **cross‑account IAM role**.
 # MAGIC
-# MAGIC > **Status: Beta.** Enable it in the Account Console → **Previews** page. Not billed during preview.
+# MAGIC > **Status: Private Preview.** Enable it in the Account Console → **Previews** page. Not billed during preview.
 # MAGIC > Configured **only** via the account REST API (no UI/Terraform yet).
 # MAGIC
 # MAGIC ### Prerequisites
